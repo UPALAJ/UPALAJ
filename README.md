@@ -4,7 +4,7 @@
 - 🌱 I have STEM background and currently working in blockchain/web3 industry
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/upalaj-s/)
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
-- KRNL company GitHub account [SpeedKRNL](https://github.com/speedkrnl)
+- 🟦 KRNL company GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
 
 # My Background
