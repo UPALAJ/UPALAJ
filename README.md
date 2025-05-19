@@ -6,13 +6,15 @@
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
 - 🟦 KRNL's GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
-
 # My Background
 - I joined double degrees engineering school in 2016
 - In that same year, I studied C (plain C) programming language as a course for first year engineering students
 - I shifted my major from Mechanical Engineering to Aerospace Engineering in 2019, when I went to Australia
 - I switched my path again in 2022 when I was working in data field
 - In 2024, I transitioned myself into blockchain/web3 industry
+
+# SpeedKRNL Account Contributions
+![image](https://github.com/user-attachments/assets/fce4aeb5-9fd0-4089-8565-4eec844b94a0)
 
 <!---
 UPALAJ/UPALAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
