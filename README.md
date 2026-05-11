@@ -6,6 +6,9 @@
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
 - 🟦 KRNL's GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
+# GitBook Documentation
+Link: [PLACEHOLDER](https://www.linkedin.com/in/upalaj-s/)
+
 # My Background
 - I joined double degrees engineering school in 2016
 - In that same year, I studied C (plain C) programming language as a course for first year engineering students
