@@ -4,7 +4,7 @@
 - 🌱 I have STEM background and currently working in blockchain/web3 industry
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/upalaj-s/)
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
-- 🟦 KRNL's GitHub account [SpeedKRNL](https://github.com/speedkrnl)
+- 🟦 Previous GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
 # GitBook Documentation
 Link: [PLACEHOLDER](https://www.linkedin.com/in/upalaj-s/)
@@ -16,7 +16,7 @@ Link: [PLACEHOLDER](https://www.linkedin.com/in/upalaj-s/)
 - I switched my path again in 2022 when I was working in data field
 - In 2024, I transitioned myself into blockchain/web3 industry
 
-# SpeedKRNL Account Contributions
+## SpeedKRNL Account Contributions
 ![image](https://github.com/user-attachments/assets/fce4aeb5-9fd0-4089-8565-4eec844b94a0)
 
 <!---
