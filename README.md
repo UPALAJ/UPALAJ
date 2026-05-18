@@ -9,6 +9,12 @@
 # Personal Technical Documentation Work
 Link: [GitBook](https://upalaj-svavasu.gitbook.io)
 
+<img width="604" height="128" alt="GitBook - Dark" src="https://github.com/user-attachments/assets/4f3c219a-4801-4658-9f91-39e78c2b0d8c" />
+
+![image](https://github.com/user-attachments/assets/4f3c219a-4801-4658-9f91-39e78c2b0d8c)
+
+
+
 # My Background
 - I joined double degrees engineering school in 2016
 - In that same year, I studied C (plain C) programming language as a course for first year engineering students
