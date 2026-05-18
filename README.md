@@ -6,8 +6,8 @@
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
 - 🟦 Previous GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
-# GitBook Documentation
-Link: [PLACEHOLDER](https://www.linkedin.com/in/upalaj-s/)
+# Personal Technical Documentation Work
+Link: [GitBook](https://upalaj-svavasu.gitbook.io)
 
 # My Background
 - I joined double degrees engineering school in 2016
