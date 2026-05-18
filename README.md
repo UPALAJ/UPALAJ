@@ -7,11 +7,11 @@
 - 🟦 Previous GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
 # Personal Technical Documentation Work
-Link: [GitBook](https://upalaj-svavasu.gitbook.io)
+Please click the GitBook logo below.
 
 [![image](https://github.com/user-attachments/assets/4f3c219a-4801-4658-9f91-39e78c2b0d8c)](https://upalaj-svavasu.gitbook.io)
 
-
+In case that the image does not show up, please click this [GitBook](https://upalaj-svavasu.gitbook.io) hyperlink.
 
 # My Background
 - I joined double degrees engineering school in 2016
