@@ -30,7 +30,7 @@ All projects are built using personal Dell XPS laptop.
 - **OS:** Windows 11 + Ubuntu (WSL)
 
 ## Previous GitHub Account Contributions
-![image](https://github.com/user-attachments/assets/fce4aeb5-9fd0-4089-8565-4eec844b94a0)
+[![image](https://github.com/user-attachments/assets/fce4aeb5-9fd0-4089-8565-4eec844b94a0)](https://www.github.com/speedkrnl)
 
 <!---
 UPALAJ/UPALAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
