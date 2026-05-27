@@ -2,14 +2,15 @@
 - 👋 Hi, I’m Upalaj Svavasu
 - 🤖 Nickname: **Speed**
 - 🌱 I have STEM background and currently working in blockchain/web3 industry
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/upalaj-s/)
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
 - 🟦 Previous GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
-![image](https://github.com/user-attachments/assets/22a8ca25-8796-4cf3-8cd5-21fd7faf07b1)
-<img src="https://github.com/user-attachments/assets/22a8ca25-8796-4cf3-8cd5-21fd7faf07b1" width="222" height="54">
-![image](https://github.com/user-attachments/assets/e9b38ee1-3fbe-46a0-b7e5-98f903de7f34)
+### How to reach me?
+Please click the LinkedIn logo below.
 
+[![image](https://github.com/user-attachments/assets/e9b38ee1-3fbe-46a0-b7e5-98f903de7f34)](https://www.linkedin.com/in/upalaj-s/)
+
+In case that the image does not show up, please click this [LinkedIn](https://www.linkedin.com/in/upalaj-s/) hyperlink.
 
 # Personal Technical Documentation Work
 Please click the GitBook logo below.
