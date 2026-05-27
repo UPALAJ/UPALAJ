@@ -3,14 +3,11 @@
 - 🤖 Nickname: **Speed**
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
 
-### How to reach me?
-Please click the LinkedIn logo below.
-
 [![image](https://github.com/user-attachments/assets/e9b38ee1-3fbe-46a0-b7e5-98f903de7f34)](https://www.linkedin.com/in/upalaj-s/)
 
 In case that the image does not show up, please click this [LinkedIn](https://www.linkedin.com/in/upalaj-s/) hyperlink.
 
-# Personal Technical Documentation Work
+# Personal Technical Documentation Portfolio
 Please click the GitBook logo below.
 
 [![image](https://github.com/user-attachments/assets/4f3c219a-4801-4658-9f91-39e78c2b0d8c)](https://upalaj-svavasu.gitbook.io)
