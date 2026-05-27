@@ -6,7 +6,8 @@
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
 - 🟦 Previous GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
-![image](https://github.com/user-attachments/assets/22a8ca25-8796-4cf3-8cd5-21fd7faf07b1 | width=200)
+![image](https://github.com/user-attachments/assets/22a8ca25-8796-4cf3-8cd5-21fd7faf07b1)
+<img src="https://github.com/user-attachments/assets/22a8ca25-8796-4cf3-8cd5-21fd7faf07b1" width="222" height="54">
 
 # Personal Technical Documentation Work
 Please click the GitBook logo below.
