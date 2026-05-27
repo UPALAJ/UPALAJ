@@ -20,6 +20,14 @@ In case that the image does not show up, please click this [GitBook](https://upa
 - I switched my path again in 2022 when I was working in data field
 - In 2024, I transitioned myself into blockchain/web3 industry
 
+# Personal PC
+All projects are built using personal Dell XPS laptop.
+Model: Dell XPS 15 9520 (2022)
+CPU: i9 12900HK (14 cores, 20 threads)
+RAM: 32GB
+GPU: RTX 3050Ti mobile
+OS: Windows 11 + Ubuntu (WSL)
+
 ## SpeedKRNL Account Contributions
 ![image](https://github.com/user-attachments/assets/fce4aeb5-9fd0-4089-8565-4eec844b94a0)
 
