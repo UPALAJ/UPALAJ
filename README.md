@@ -1,9 +1,7 @@
 # Introduction
 - 👋 Hi, I’m Upalaj Svavasu
 - 🤖 Nickname: **Speed**
-- 🌱 I have STEM background and currently working in blockchain/web3 industry
 - ⚡ Fun fact: That nickname was given to me by my parents at birth
-- 🟦 Previous GitHub account [SpeedKRNL](https://github.com/speedkrnl)
 
 ### How to reach me?
 Please click the LinkedIn logo below.
@@ -34,7 +32,7 @@ All projects are built using personal Dell XPS laptop.
 - **GPU:** RTX 3050Ti mobile
 - **OS:** Windows 11 + Ubuntu (WSL)
 
-## SpeedKRNL Account Contributions
+## Previous GitHub Account Contributions
 ![image](https://github.com/user-attachments/assets/fce4aeb5-9fd0-4089-8565-4eec844b94a0)
 
 <!---
