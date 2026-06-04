@@ -10,7 +10,7 @@ In case that the image does not show up, please click this [LinkedIn](https://ww
 # Personal Technical Documentation Portfolio
 Please click the GitBook logo below.
 
-[![image](https://github.com/user-attachments/assets/4f3c219a-4801-4658-9f91-39e78c2b0d8c)](https://upalaj-svavasu.gitbook.io)
+[![image](https://github.com/user-attachments/assets/148c5af4-c2e4-45c8-80d5-9aa0f4dc1cd8)](https://upalaj-svavasu.gitbook.io)
 
 In case that the image does not show up, please click this [GitBook](https://upalaj-svavasu.gitbook.io) hyperlink.
 
