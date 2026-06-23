@@ -23,7 +23,7 @@ In case that the image does not show up, please click this [GitBook](https://upa
 
 # Personal PC
 All projects are built using personal Dell XPS laptop.
-- **Model:** Dell XPS 15 9520 (2022)
+- **Model:** Dell XPS 15 9520 (2022 release)
 - **CPU:** i9 12900HK (14 cores, 20 threads)
 - **RAM:** 32GB
 - **GPU:** RTX 3050Ti mobile
